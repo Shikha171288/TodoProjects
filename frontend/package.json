@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "devDependencies": {
     "ajv": "^7.2.4"
   }
